@@ -13,3 +13,11 @@
 *https://alexandragulamova-3week2day-hw-streamlit-tips-appmain-klx2ff.streamlit.app/*
 
 В этот проект необходимо подгузить файл tips.csv
+
+
+Иногда возникала проблема обновления заголовков - они не менялись
+после включения кэширования стало хуже
+st.title(page)
+(см. папку pages)
+
+Как с этим жить, как с этим бороться?
