@@ -11,3 +11,5 @@
 ***Задание 2***
 
 *https://alexandragulamova-3week2day-hw-streamlit-tips-appmain-klx2ff.streamlit.app/*
+
+В этот проект необходимо подгузить файл tips.csv
